@@ -1,1 +1,1 @@
-# juniorYearEndProject
+# JuniorYearEndProject
